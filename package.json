@@ -1,7 +1,7 @@
 {
-  "name": "starry_acacia_lunatic_thorn",
-  "version": "1.0.0",
-  "description": "starry_acacia_lunatic_thorn's blog",
+  "name": "salt",
+  "version": "2.0.0",
+  "description": "A project of vuepress-theme-hope",
   "license": "MIT",
   "type": "module",
   "scripts": {
@@ -14,6 +14,6 @@
     "@vuepress/client": "2.0.0-rc.0",
     "vue": "^3.3.9",
     "vuepress": "2.0.0-rc.0",
-    "vuepress-theme-hope": "2.0.0-rc.2"
+    "vuepress-theme-hope": "2.0.0-rc.3"
   }
 }
