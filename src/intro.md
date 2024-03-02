@@ -3,6 +3,8 @@ icon: circle-info
 cover: /assets/images/cover3.jpg
 ---
 
+# 嗨，这里是"SALT"的介绍页
+
 # "SALT"是什么？我是问，它指什么？
 
 - SALT
