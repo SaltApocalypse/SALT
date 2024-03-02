@@ -47,31 +47,6 @@ cover: /assets/images/cover3.jpg
 
 最后，这里来去自由，只要不踩雷，没有任何限制。
 
-
-<!-- 暂不使用 -->
-
-# "Teriris On Your Lawn"
-
-> There is a teriri on your lawn
->
-> There is a teriri on your lawn
->
-> There is a teriri on your lawn
->
-> We want more teriris on the lawn
->
-> I know your type: petite, cute, and sweet
->
-> You want to take all the hearts from tender souls
->
-> And then snatch the minds of those who were drawn to your enchantment here
->
-> I'm just a fanatic but see our power an entire infantry
->
-> You are the ultimate idol and we all like teriri
-
-<!-- 暂不使用 -->
-
 ---
 # 其他的内容
 
