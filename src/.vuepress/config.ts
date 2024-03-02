@@ -1,12 +1,13 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
+import { hopeTheme } from "vuepress-theme-hope";
 
 export default defineUserConfig({
   base: "/",
 
   lang: "zh-CN",
   title: "SALT",
-  description: "vuepress-theme-hope 的博客演示",
+  description: "SALT的博客",
 
   theme,
 
