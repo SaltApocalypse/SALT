@@ -11,9 +11,9 @@ export default sidebar({
     //   children: "structure",
     // },
     {
-      text: "文章",
-      icon: "book",
-      prefix: "posts/",
+      text: "展厅",
+      icon: "guidance:gallery",
+      prefix: "gallery/",
       children: "structure",
     },
     "intro",

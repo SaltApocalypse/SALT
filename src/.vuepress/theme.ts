@@ -9,11 +9,12 @@ export default hopeTheme({
   hostname: "https://salt.salta.top",
 
   author: {
-    name: "SALT",
+    name: "SaltA",
     url: "https://www.salta.top",
   },
 
-  iconAssets: "fontawesome-with-brands",
+  // "iconfont", "iconify", "fontawesome", "fontawesome-with-brands"
+  iconAssets: "iconify",
 
   logo: "https://cdn.jsdelivr.net/gh/saltapocalypse/CDN/Blog/Site/avatar.gif",
 
@@ -93,6 +94,26 @@ export default hopeTheme({
   plugins: {
     blog: true,
 
+    // 组件
+    components: {
+      // 组件列表
+      components: [
+        // "ArtPlayer",
+        // "Badge",
+        "BiliBili",
+        // "CodePen",
+        "PDF",
+        // "Replit",
+        // "Share",
+        // "SiteInfo",
+        // "StackBlitz",
+        // "VPBanner",
+        // "VPCard",
+        // "VidStack",
+        // "XiGua",
+      ],
+    },
+
     // install @waline/client before enabling it
     // WARNING: This is a test server for demo only.
     // You should create and use your own comment service in production.
@@ -101,7 +122,7 @@ export default hopeTheme({
     //   serverURL: "https://waline-comment.vuejs.press",
     // },
 
-    // all features are enabled for demo, only preserve features you need here
+    // Markdown增强
     mdEnhance: {
       align: true,
       attrs: true,
@@ -114,6 +135,7 @@ export default hopeTheme({
       // insert component easily
       // component: true,
 
+
       demo: true,
 
       // install echarts before enabling it
@@ -121,8 +143,13 @@ export default hopeTheme({
 
       figure: true,
 
+      footnote: true, // 脚注
+
+
       // install flowchart.ts before enabling it
       // flowchart: true,
+
+      hint: true, // 提示容器
 
       // gfm requires mathjax-full to provide tex support
       // gfm: true,
@@ -164,10 +191,11 @@ export default hopeTheme({
           },
         },
       ],
-      sub: true,
-      sup: true,
+      sub: true, // 下角标
+      sup: true, // 上角标
       tabs: true,
       vPre: true,
+
 
       // install @vue/repl before enabling it
       // vuePlayground: true,

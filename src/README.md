@@ -1,7 +1,8 @@
 ---
 home: true
 layout: BlogHome
-icon: home
+icon: ic:baseline-home
+# bgImage: https://cdn.jsdelivr.net/gh/saltapocalypse/CDN/Blog/Site/backgrounds/Desktop_Luna_Kindred_v2.jpg
 title: SALT
 heroImage: https://cdn.jsdelivr.net/gh/saltapocalypse/CDN/Blog/Site/avatar.gif
 heroText: SALT
