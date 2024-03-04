@@ -92,7 +92,9 @@ title: 月下初拥主题光标
 
      使用 **jsDelivr** 加速：`https://cdn.jsdelivr.net/gh/saltapocalypse/CDN/Cursor_Luna_Kindred/` + `具体资源的文件名` 。
 
-## 
+## 备注
+
+- 首次发布时间：2023 年 7 月 16 日
 
 **(C) Copyright 2023 Execute** 
 
