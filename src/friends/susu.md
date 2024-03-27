@@ -21,7 +21,7 @@ oc人，喜欢西幻和蒸汽
 ![禁止NTR](https://cdn.jsdelivr.net/gh/saltapocalypse/CDN/SALT/pages/friends/susu/NONTR_2.jpg "禁止NTR")
 ![禁止NTR](https://cdn.jsdelivr.net/gh/saltapocalypse/CDN/SALT/pages/friends/susu/NONTR_3.jpg "禁止NTR")
 
-❤️加我空间`2960982127`❤️观看我家小情侣私密日常❤️
+~~❤️加我空间`XXXXXXXXX`❤️观看我家小情侣私密日常❤️~~
 
 同人随心情，德丽莎随时都可能画
 

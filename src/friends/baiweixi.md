@@ -1,6 +1,6 @@
 ---
 author: 白未晞.Alice
-icon: ph:flower-lotus-bold
+icon: https://cdn.jsdelivr.net/gh/saltapocalypse/CDN/SALT/pages/friends/baiweixi/baiweixi.png # ph:flower-lotus-bold 
 title: 白未晞.Alice
 date: 2024-03-26
 # cover: https://cdn.jsdelivr.net/gh/saltapocalypse/CDN/Blog/Pages/230716/Cover.png
@@ -16,8 +16,6 @@ category:
 名字取自《诗经》蒹葭萋萋，白露未晞
 
 性别是绘画数位板（确信）
-
-联系方式：QQ `3351918495`（无雷，放心扩列）
 
 推是自家oc和德丽莎。
 
