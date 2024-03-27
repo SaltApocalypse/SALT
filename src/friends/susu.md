@@ -1,6 +1,6 @@
 ---
 author: 苏苏
-icon: ph:flower-lotus-bold
+icon: solar:cat-linear
 title: 苏苏
 date: 2024-03-27
 # cover: https://cdn.jsdelivr.net/gh/saltapocalypse/CDN/Blog/Pages/230716/Cover.png

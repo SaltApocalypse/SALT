@@ -8,7 +8,7 @@ export default sidebar({
       icon: "icon-park-solid:palace",
       prefix: "gallery/",
       collapsible: true,
-      children: ["2307-LunaKindredCursor", "2403-shuzhongjuanmo"],
+      children: ["2307-LunaKindredCursor", "2403-chipichapa", "2403-shuzhongjuanmo"],
     },
     {
       text: "珍宝柜",

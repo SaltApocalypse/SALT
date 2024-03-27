@@ -2,7 +2,7 @@
 icon: mingcute:cursor-3-fill
 title: 月下初拥主题光标
 date: 2023-07-16
-cover: https://cdn.jsdelivr.net/gh/saltapocalypse/CDN/Blog/Pages/230716/Cover.png
+cover: https://cdn.jsdelivr.net/gh/saltapocalypse/CDN/SALT/pages/gallery/2307-LunaKindredCursor/Cover.png
 description: 一套像素风格的、以月下初拥花裳月纱皮肤为原型绘制并制作的光标，可用来替换Windows默认的17种基本光标。
 category:
   - 展厅
@@ -34,11 +34,11 @@ tag:
 
 1. 下载光标并解压，打开后双击其中的`右键该文件，选择安装（如有弹窗请选择“确定”）.inf` 文件。
 
-    ![](https://cdn.jsdelivr.net/gh/saltapocalypse/CDN/Blog/Pages/230716/P1_1.png)
+    ![安装指针](https://cdn.jsdelivr.net/gh/saltapocalypse/CDN/SALT/pages/gallery/2307-LunaKindredCursor/P1_1.png)
 
 2. 在弹出的**鼠标 属性**窗口中选择`指针`选项卡，将方案修改为 `Luna_kindred` ，点击下方`确定`。
 
-    ![](https://cdn.jsdelivr.net/gh/saltapocalypse/CDN/Blog/Pages/230716/P1_2.png)
+    ![选择指针方案](https://cdn.jsdelivr.net/gh/saltapocalypse/CDN/SALT/pages/gallery/2307-LunaKindredCursor/P1_2.png)
 
 :::
 
@@ -46,11 +46,11 @@ tag:
 
 1. 打开 `Windows 设置`，在搜索框中搜索`鼠标设置`，找到`其他鼠标选项`（也就是<u>安装光标</u>中的**鼠标 属性**窗口）。
 
-    ![](https://cdn.jsdelivr.net/gh/saltapocalypse/CDN/Blog/Pages/230716/P1_3.png)
+    ![鼠标设置](https://cdn.jsdelivr.net/gh/saltapocalypse/CDN/SALT/pages/gallery/2307-LunaKindredCursor/P1_3.png)
 
 2. 选择`指针`选项卡，在`自定义`中双击点开（或选择要修改的图标后点击`浏览`）你要修改的光标，找到你下载并解压好的光标文件夹中要替换的光标即可。
 
-    ![](https://cdn.jsdelivr.net/gh/saltapocalypse/CDN/Blog/Pages/230716/P1_4.png)
+    ![自选替换](https://cdn.jsdelivr.net/gh/saltapocalypse/CDN/SALT/pages/gallery/2307-LunaKindredCursor/P1_4.png)
 
 ::: tip 关于文本选择光标
 
@@ -64,7 +64,7 @@ tag:
 
 1. 打开 `Windows 设置` ，在搜索框中搜索 `鼠标指针大小` ，并修改到你觉得合适的大小。
 
-    ![](https://cdn.jsdelivr.net/gh/saltapocalypse/CDN/Blog/Pages/230716/P1_5.png)
+    ![调整鼠标指针大小](https://cdn.jsdelivr.net/gh/saltapocalypse/CDN/SALT/pages/gallery/2307-LunaKindredCursor/P1_5.png)
 
 2. 打开 `Windows 设置` ，在搜索框中搜索`鼠标设置`，找到`其他鼠标选项`（也就是<u>安装光标</u>中的**鼠标 属性**窗口）。
 
