@@ -22,7 +22,7 @@ export default sidebar({
       icon: "bi:people-fill",
       prefix: "friends/",
       collapsible: true,
-      children: ["baiweixi", "susu"],
+      children: ["baiweixi", "jinxiangmantianliuxingmianhua", "lingyi", "SaltA", "susu"],
     },
     "intro",
 
