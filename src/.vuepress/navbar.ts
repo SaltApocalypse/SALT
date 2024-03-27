@@ -4,7 +4,7 @@ export default navbar([
   "/",
   {
     text: "SaltA's Utopia",
-    icon: "leaf",
+    icon: "mdi:leaf",
     link: "https://www.salta.top",
   },
 ]);

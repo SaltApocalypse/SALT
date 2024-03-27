@@ -1,19 +1,22 @@
 ---
-cover: https://cdn.jsdelivr.net/gh/saltapocalypse/CDN/Blog/Pages/230716/Cover.png
-description: 1
 icon: mingcute:cursor-3-fill
+title: 月下初拥主题光标
+date: 2023-07-16
+cover: https://cdn.jsdelivr.net/gh/saltapocalypse/CDN/Blog/Pages/230716/Cover.png
+description: 一套像素风格的、以月下初拥花裳月纱皮肤为原型绘制并制作的光标，可用来替换Windows默认的17种基本光标。
+category:
+  - 展厅
 tag:
   - 同人二创
   - 月下初拥
   - 鼠标指针
-title: 月下初拥主题光标
 ---
-
-## 简单介绍
 
 一套像素风格的、以月下初拥花裳月纱皮肤为原型绘制并制作的光标，可用来替换Windows默认的17种基本光标。
 
 **由 `Execute` 和 `SaltA` 用 :heart: 制作！**
+
+<!-- more -->
 
 ## 宣传视频 - Bilibili
 
@@ -89,7 +92,7 @@ title: 月下初拥主题光标
 
 2.   你可以点击下面链接查看可使用的资源：
 
-     点击访问：[我的Github仓库](https://github.com/saltapocalypse/CDN/tree/main/Cursor_Luna_Kindred)。
+     点击访问：[相关资源的仓库地址](https://github.com/saltapocalypse/CDN/tree/main/Cursor_Luna_Kindred)。
 
      使用 **jsDelivr** 加速：`https://cdn.jsdelivr.net/gh/saltapocalypse/CDN/Cursor_Luna_Kindred/` + `具体资源的文件名` 。
 
@@ -97,8 +100,8 @@ title: 月下初拥主题光标
 
 - 首次发布时间：`2023 年 7 月 16 日`
 
-**(C) Copyright 2023 Execute** 
+**(C) Copyright Execute** 
 
-**(C) Copyright 2023 Salt_Apocalypse**
+**(C) Copyright Salt_Apocalypse**
 
-**由 `SALT` 呈现~ :heart:**
+**由 `星槐月棘 SALT` 呈现~ :heart:**

@@ -18,7 +18,7 @@ export default hopeTheme({
 
   logo: "https://cdn.jsdelivr.net/gh/saltapocalypse/CDN/Blog/Site/avatar.gif",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "SaltApocalypse/SALT",
 
   docsDir: "src",
 
@@ -141,7 +141,10 @@ export default hopeTheme({
       // install echarts before enabling it
       // echarts: true,
 
-      figure: true,
+
+      figure: true, // figure支持
+      imgLazyload: true, // 图像懒加载
+      imgSize: true, // 图像尺寸
 
       footnote: true, // 脚注
 
@@ -154,8 +157,6 @@ export default hopeTheme({
       // gfm requires mathjax-full to provide tex support
       // gfm: true,
 
-      imgLazyload: true,
-      imgSize: true,
       include: true,
 
       // install katex before enabling it
