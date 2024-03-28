@@ -1,6 +1,6 @@
 ---
 author: Salt Apocalypse
-icon: 
+icon: https://cdn.jsdelivr.net/gh/saltapocalypse/CDN/SALT/pages/friends/SaltA/icon.png
 title: Salt Apocalypse
 date: 2024-03-27
 # cover: https://cdn.jsdelivr.net/gh/saltapocalypse/CDN/Blog/Pages/230716/Cover.png
@@ -10,3 +10,5 @@ category:
 ---
 
 <!-- more -->
+
+[![salt](https://cdn.jsdelivr.net/gh/saltapocalypse/CDN/SALT/pages/friends/SaltA/icon.png "salt")](https://www.salta.top)

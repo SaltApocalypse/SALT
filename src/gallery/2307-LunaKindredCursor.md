@@ -20,7 +20,7 @@ tag:
 
 ## 宣传视频 - Bilibili
 
-<BiliBili bvid="BV1qj411d78N" />
+<BiliBili bvid="BV1qj411d78N"/>
 
 ## 下载地址
 

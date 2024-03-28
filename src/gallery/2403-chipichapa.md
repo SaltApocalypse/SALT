@@ -34,7 +34,7 @@ tag:
 
 ## 宣传视频 - Bilibili
 
-<BiliBili bvid="BV" />
+<BiliBili bvid="BV1nr421b72f"/>
 
 ## 备注
 

@@ -1,6 +1,6 @@
 ---
 author: 尽享漫天流星棉花
-icon: 
+icon: noto:shooting-star
 title: 尽享漫天流星棉花
 date: 2024-03-27
 # cover: https://cdn.jsdelivr.net/gh/saltapocalypse/CDN/Blog/Pages/230716/Cover.png
