@@ -15,7 +15,7 @@ tag:
 
 <!-- more -->
 
-![星月魔法屋 2024 德丽莎生日同人无盈利小料](https://cdn.jsdelivr.net/gh/saltapocalypse/CDN/SALT/pages/cabinet/2403-BirthdayGoods/2403-BirthdayGoods.jpg "星月魔法屋 2024 德丽莎生日同人无盈利小料")
+![星月魔法屋 2024 德丽莎生日同人无盈利小料](https://cdn.jsdelivr.net/gh/saltapocalypse/CDN/SALT/pages/cabinet/2403-BirthdayGoods.jpg "星月魔法屋 2024 德丽莎生日同人无盈利小料 宣图")
 
 ## 备注
 

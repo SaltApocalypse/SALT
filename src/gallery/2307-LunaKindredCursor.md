@@ -10,6 +10,7 @@ tag:
   - 同人二创
   - 月下初拥
   - 鼠标指针
+  - 主题美化
 ---
 
 一套像素风格的、以月下初拥花裳月纱皮肤为原型绘制并制作的光标，可用来替换Windows默认的17种基本光标。
@@ -95,6 +96,9 @@ tag:
      点击访问：[相关资源的仓库地址](https://github.com/saltapocalypse/CDN/tree/main/Cursor_Luna_Kindred)。
 
      使用 **jsDelivr** 加速：`https://cdn.jsdelivr.net/gh/saltapocalypse/CDN/Cursor_Luna_Kindred/` + `具体资源的文件名` 。
+
+<!-- ### 衍生制品 - 贴纸 -->
+<!-- TODO: -->
 
 ## 备注
 

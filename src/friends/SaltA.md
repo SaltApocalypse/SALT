@@ -11,4 +11,4 @@ category:
 
 <!-- more -->
 
-[![salt](https://cdn.jsdelivr.net/gh/saltapocalypse/CDN/SALT/pages/friends/SaltA/icon.png "salt")](https://www.salta.top)
+[![SaltA / Salt Apocalypse](https://cdn.jsdelivr.net/gh/saltapocalypse/CDN/SALT/pages/friends/SaltA/icon.png "salt")](https://www.salta.top)

@@ -11,3 +11,7 @@ description: 展厅
 这里用来展示除了我们做过的周边以外的同人作品~
 
 顺序仅用于**发表日期**参考。
+
+<div class="catalog-display-container">
+  <Catalog base='/gallery/' />
+</div>

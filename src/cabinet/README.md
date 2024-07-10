@@ -11,3 +11,7 @@ description: 珍宝柜
 该栏目主要用来展示我们做过的同人周边类二创作品。
 
 顺序仅用于**发表日期**参考。
+
+<div class="catalog-display-container">
+  <Catalog base='/cabinet/' />
+</div>
