@@ -15,7 +15,7 @@ tag:
 
 <!-- more -->
 
-![“酥脆小粒牌”](https://cdn.jsdelivr.net/gh/saltapocalypse/CDN/SALT/pages/cabinet/2405-Chisp.png "“酥脆小粒牌” 宣图")
+![“酥脆小粒牌”](https://cdn.jsdelivr.net/gh/saltapocalypse/CDN/SALT/pages/cabinet/2405-Crisp.png "“酥脆小粒牌” 宣图")
 
 ## 备注
 
