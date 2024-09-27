@@ -24,7 +24,7 @@ tag:
 
 ## 衍生制品 - 半切贴纸组
 
-[此处跳转 珍宝柜](/cabinet/2403-DailyEmojis.md)
+[此处跳转 星月魔法屋](/cabinet/2403-DailyEmojis.md)
 
 ## 备注
 

@@ -16,11 +16,11 @@ description: 家园补给
 
 - 可访问的介绍界面
 
-<div class="catalog-display-container">
-  <Catalog base='/friends/' />
-</div>
+<!-- <div class="catalog-display-container"> -->
+  <!-- <Catalog base='/friends/' /> -->
+<!-- </div> -->
 
-- ~~（懒得做）~~暂时还没有介绍界面的朋友们
-
+- 暂时还没有介绍界面~~懒得做~~的朋友们
+  - 猫酒
   - 天生追随者
   - 这是个水果

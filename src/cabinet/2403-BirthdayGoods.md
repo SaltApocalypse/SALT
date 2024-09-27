@@ -5,10 +5,9 @@ date: 2024-03-17
 # cover: https://cdn.jsdelivr.net/gh/saltapocalypse/CDN/Blog/Pages/230716/Cover.png
 description: 星月魔法屋 2024 德丽莎生日同人无盈利小料展示~
 category:
-  - 珍宝柜
+  - 星月魔法屋
 tag:
   - 同人周边
-  - 星月魔法屋
 ---
 
 星月魔法屋 2024 德丽莎生日同人无盈利小料展示~

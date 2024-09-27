@@ -1,6 +1,6 @@
 ---
 author: 凌逸
-icon: fluent-emoji-flat:dove
+# icon: fluent-emoji-flat:dove
 title: 凌逸
 date: 2024-03-27
 # cover: https://cdn.jsdelivr.net/gh/saltapocalypse/CDN/Blog/Pages/230716/Cover.png

@@ -114,6 +114,11 @@ export default hopeTheme({
       ],
     },
 
+    // 目录
+    catalog: {
+
+    },
+
     // install @waline/client before enabling it
     // WARNING: This is a test server for demo only.
     // You should create and use your own comment service in production.

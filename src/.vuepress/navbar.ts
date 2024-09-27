@@ -8,7 +8,7 @@ export default navbar([
     link: "gallery/",
   },
   {
-    text: "珍宝柜",
+    text: "星月魔法屋",
     icon: "game-icons:locked-chest",
     link: "cabinet/",
   },

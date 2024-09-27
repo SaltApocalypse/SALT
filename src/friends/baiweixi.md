@@ -1,6 +1,6 @@
 ---
 author: 白未晞.Alice
-icon: https://cdn.jsdelivr.net/gh/saltapocalypse/CDN/SALT/pages/friends/baiweixi/baiweixi.png # ph:flower-lotus-bold 
+# icon: https://cdn.jsdelivr.net/gh/saltapocalypse/CDN/SALT/pages/friends/baiweixi/baiweixi.png # ph:flower-lotus-bold 
 title: 白未晞.Alice
 date: 2024-03-26
 # cover: https://cdn.jsdelivr.net/gh/saltapocalypse/CDN/Blog/Pages/230716/Cover.png
